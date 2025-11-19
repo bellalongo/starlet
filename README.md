@@ -1,5 +1,10 @@
 # Stellar Flare Detection with Transformers
 
+### Read my thesis [here](thesis.pdf) !
+
+
+
+
 [![PyTorch](https://img.shields.io/badge/PyTorch-pink?style=for-the-badge)](https://pytorch.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-pink?style=for-the-badge)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-pink?style=for-the-badge)](https://matplotlib.org/)
